@@ -1,6 +1,6 @@
 /*	program: print to screen 
 	author: nick hutter
-	date: 1/30/19
+	date: 2/1/19
 	purpose: calculate the test average based on 3 user inputs 
 	calculations: test average
 	information: syscall to write to screen  */
